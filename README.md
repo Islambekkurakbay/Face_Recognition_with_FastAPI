@@ -1,10 +1,10 @@
 ### To start download dependencies
-<b>pip install requirements.txt</b>
+pip install requirements.txt
 
-#### To start the model first go to the working directory and run
-<b> python -m uvicorn model_test_1:app --reload </b>
+### To start the model first go to the working directory and run
+python -m uvicorn model_test_1:app --reload
 
-#### To integrate with the model go to
+### To integrate with the model go to
 <a href='http://127.0.0.1:8000/docs'> http://127.0.0.1:8000/docs </a>
 
 
