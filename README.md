@@ -1,5 +1,5 @@
 ### To start download dependencies
-pip install requirements
+pip install requirements.txt
 
 #### To start the model run
 python -m uvicorn model_test_1:app --reload
